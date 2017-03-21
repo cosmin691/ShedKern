@@ -33,7 +33,7 @@ PS=2048
 CMDL="console=ttySAC1,115200n8 ess_setup=0x46000000 pmic_info=0x02 androidboot.hardware=samsungexynos7580"
 BRD=SYSMAGIC000KU
 KERNEL_DEFCONFIG=exynos7580-s5neolte_defconfig
-#KERNEL_DEFCONFIG=s5neolte_defconfig
+#KERNEL_DEFCONFIG=custom-s5neolte_defconfig
 
 ####################################### COMPILE FUNCTIONS #######################################
 
